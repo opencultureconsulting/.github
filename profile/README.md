@@ -1,3 +1,1 @@
 We are committed to openness and therefore only develop open source software (OSS) and open educational resources (OER). Our source code is consistently documented, versioned, and offered to the respective upstream development branches whenever possible. Custom developments are published here on GitHub under free licenses.
-
-All original source code and material we have developed can also be found on [OCC Gitea](https://code.opencultureconsulting.com). In most cases, these are mirrors of the corresponding repositories here on GitHub. While these are automatically updated on a regular basis, the state on GitHub may be newer in the short term.
